@@ -33,4 +33,4 @@
 		python -c "from keras import backend"
 	```
 	
-3. Enjoy!
+3. Run `cd mnist-mlp; jupyter notebook mnist_mlp.ipynb`
